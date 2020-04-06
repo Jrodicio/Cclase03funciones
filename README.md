@@ -1,4 +1,4 @@
-# Villegas Octavio
+# Rodicio Julián
 # Tutorial de Git + GitHub
 
-complete los datosn aquí!!!
+-- La primera vez
